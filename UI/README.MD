@@ -1,1 +1,1 @@
-![](./UI/UI.png)
+![](/UI/UI.png)
