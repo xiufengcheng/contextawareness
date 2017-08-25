@@ -1,0 +1,26 @@
+device_id	application_name
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	AWARE
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	TouchWiz 主屏幕
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	我的文件
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	Android 系统
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	QQ
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	系统 UI
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	设置
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	ofo bicycle
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	微信
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	微博
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	优酷
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	UC浏览器
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	网易云音乐
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	三星应用商店
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	软件包安装程序
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	格瓦拉@电影
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	Snapseed
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	相册
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	PicsArt
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	闲鱼
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	手机
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	支付宝
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	信息
+ef43f6e1-42f1-494b-bb9a-06fa8ba904dd	Outlook.com

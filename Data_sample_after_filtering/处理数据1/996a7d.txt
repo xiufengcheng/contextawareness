@@ -1,0 +1,21 @@
+device_id	application_name
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	系统 UI
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	QQ
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	AWARE
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	HTC BlinkFeed
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	文件管理
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	UC
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	电话
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	设置
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	HTC Dot View
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	信息
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	猎豹清理大师
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	相册
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	哔哩哔哩动画
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	Android系统
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	WPS Office
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	知乎
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	奇迹暖暖
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	微信
+996a7d2a-b09e-417d-bac9-d64a1d82eb18	天天爱消除

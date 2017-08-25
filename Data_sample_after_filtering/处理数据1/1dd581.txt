@@ -1,0 +1,8 @@
+device_id	application_name
+1dd581d7-b59f-4751-8f81-56023bd2f03e	AWARE
+1dd581d7-b59f-4751-8f81-56023bd2f03e	授权管理
+1dd581d7-b59f-4751-8f81-56023bd2f03e	系统桌面
+1dd581d7-b59f-4751-8f81-56023bd2f03e	系统用户界面
+1dd581d7-b59f-4751-8f81-56023bd2f03e	Android系统
+1dd581d7-b59f-4751-8f81-56023bd2f03e	com.android.keyguard
+1dd581d7-b59f-4751-8f81-56023bd2f03e	文件管理

@@ -1,0 +1,15 @@
+device_id	application_name
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	系统用户界面
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	QQ
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	AWARE
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	手机管家
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	华为桌面
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	文件管理
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	设置
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	应用宝
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	手机淘宝
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	手机京东
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	唯品会
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	键盘锁
+f82e4d6a-8e94-4f53-ba0d-d84a7c8ac49c	Kingsoft Office

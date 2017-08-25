@@ -1,0 +1,7 @@
+device_id	application_name
+b073bde5-b5cd-4955-8587-fba9b292c500	系统用户界面
+b073bde5-b5cd-4955-8587-fba9b292c500	QQ
+b073bde5-b5cd-4955-8587-fba9b292c500	AWARE
+b073bde5-b5cd-4955-8587-fba9b292c500	设置
+b073bde5-b5cd-4955-8587-fba9b292c500	华为桌面
+b073bde5-b5cd-4955-8587-fba9b292c500	炉石传说

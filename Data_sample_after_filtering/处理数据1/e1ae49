@@ -1,0 +1,8 @@
+"_id","timestamp","device_id","package_name","application_name","is_system_app"
+"1","1473843731379.0","e1ae49d9-383c-4838-a2d2-56078ca24b09","com.aware","AWARE","0"
+"2","1473843743199.0","e1ae49d9-383c-4838-a2d2-56078ca24b09","com.huawei.systemmanager","手机管家","1"
+"3","1473843743392.0","e1ae49d9-383c-4838-a2d2-56078ca24b09","com.aware","AWARE","0"
+"4","1473843755188.0","e1ae49d9-383c-4838-a2d2-56078ca24b09","com.huawei.android.launcher","华为桌面","1"
+"5","1473843758608.0","e1ae49d9-383c-4838-a2d2-56078ca24b09","com.aware","AWARE","0"
+"6","1473843760095.0","e1ae49d9-383c-4838-a2d2-56078ca24b09","com.huawei.android.launcher","华为桌面","1"
+"7","1473843797860.0","e1ae49d9-383c-4838-a2d2-56078ca24b09","com.huawei.hidisk","文件管理","1"

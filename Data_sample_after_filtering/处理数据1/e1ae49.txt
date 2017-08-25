@@ -1,0 +1,5 @@
+device_id	application_name
+e1ae49d9-383c-4838-a2d2-56078ca24b09	AWARE
+e1ae49d9-383c-4838-a2d2-56078ca24b09	手机管家
+e1ae49d9-383c-4838-a2d2-56078ca24b09	华为桌面
+e1ae49d9-383c-4838-a2d2-56078ca24b09	文件管理

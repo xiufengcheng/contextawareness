@@ -1,0 +1,31 @@
+device_id	application_name
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	设置
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	系统桌面
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	微信
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	浏览器
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	QQ
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	com.android.keyguard
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	系统用户界面
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	WPS Office
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	网易有道词典
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	相机
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	百词斩
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	短信
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	HTML 查看器
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	图库
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	msa
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	电话
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	日历
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	文件管理
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	Android系统
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	支付宝
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	AWARE
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	打包安装程序
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	小米视频
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	搜狐视频
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	微博
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	QQ音乐
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	便签
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	系统更新
+c941a8a2-0d7b-4a5c-bad3-59a32f534c4a	应用商店

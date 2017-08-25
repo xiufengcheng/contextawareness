@@ -1,0 +1,8 @@
+device_id	application_name
+a04d7e7c-d493-484d-82f1-fa7c84059c75	系统界面
+a04d7e7c-d493-484d-82f1-fa7c84059c75	WPS Office
+a04d7e7c-d493-484d-82f1-fa7c84059c75	AWARE
+a04d7e7c-d493-484d-82f1-fa7c84059c75	设置
+a04d7e7c-d493-484d-82f1-fa7c84059c75	TouchWiz 主页
+a04d7e7c-d493-484d-82f1-fa7c84059c75	截屏
+a04d7e7c-d493-484d-82f1-fa7c84059c75	我的文件

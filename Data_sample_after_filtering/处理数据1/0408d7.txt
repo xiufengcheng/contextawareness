@@ -1,0 +1,7 @@
+device_id	application_name
+0408d740-dbb3-412d-a247-1a66fb6d6d41	AWARE
+0408d740-dbb3-412d-a247-1a66fb6d6d41	授权管理
+0408d740-dbb3-412d-a247-1a66fb6d6d41	系统桌面
+0408d740-dbb3-412d-a247-1a66fb6d6d41	QQ
+0408d740-dbb3-412d-a247-1a66fb6d6d41	系统用户界面
+0408d740-dbb3-412d-a247-1a66fb6d6d41	文件管理

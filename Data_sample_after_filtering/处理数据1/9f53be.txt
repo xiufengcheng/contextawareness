@@ -1,0 +1,36 @@
+device_id	application_name
+9f53becc-07a4-43c9-8147-8ebef5e675af	AWARE
+9f53becc-07a4-43c9-8147-8ebef5e675af	Flyme系统服务
+9f53becc-07a4-43c9-8147-8ebef5e675af	系统桌面
+9f53becc-07a4-43c9-8147-8ebef5e675af	系统界面
+9f53becc-07a4-43c9-8147-8ebef5e675af	ofo bicycle
+9f53becc-07a4-43c9-8147-8ebef5e675af	微信
+9f53becc-07a4-43c9-8147-8ebef5e675af	设置
+9f53becc-07a4-43c9-8147-8ebef5e675af	手机管家
+9f53becc-07a4-43c9-8147-8ebef5e675af	闲鱼
+9f53becc-07a4-43c9-8147-8ebef5e675af	QQ
+9f53becc-07a4-43c9-8147-8ebef5e675af	高德地图
+9f53becc-07a4-43c9-8147-8ebef5e675af	知乎
+9f53becc-07a4-43c9-8147-8ebef5e675af	铁路12306
+9f53becc-07a4-43c9-8147-8ebef5e675af	网易云音乐
+9f53becc-07a4-43c9-8147-8ebef5e675af	时钟
+9f53becc-07a4-43c9-8147-8ebef5e675af	小米运动
+9f53becc-07a4-43c9-8147-8ebef5e675af	信息
+9f53becc-07a4-43c9-8147-8ebef5e675af	格瓦拉@电影
+9f53becc-07a4-43c9-8147-8ebef5e675af	图库
+9f53becc-07a4-43c9-8147-8ebef5e675af	豆瓣
+9f53becc-07a4-43c9-8147-8ebef5e675af	手机淘宝
+9f53becc-07a4-43c9-8147-8ebef5e675af	支付宝
+9f53becc-07a4-43c9-8147-8ebef5e675af	浏览器
+9f53becc-07a4-43c9-8147-8ebef5e675af	通话
+9f53becc-07a4-43c9-8147-8ebef5e675af	登录网络
+9f53becc-07a4-43c9-8147-8ebef5e675af	应用商店
+9f53becc-07a4-43c9-8147-8ebef5e675af	花椒直播
+9f53becc-07a4-43c9-8147-8ebef5e675af	便签
+9f53becc-07a4-43c9-8147-8ebef5e675af	相机
+9f53becc-07a4-43c9-8147-8ebef5e675af	Zine
+9f53becc-07a4-43c9-8147-8ebef5e675af	微博
+9f53becc-07a4-43c9-8147-8ebef5e675af	WPS Office
+9f53becc-07a4-43c9-8147-8ebef5e675af	超级课程表
+9f53becc-07a4-43c9-8147-8ebef5e675af	
+9f53becc-07a4-43c9-8147-8ebef5e675af	文件管理

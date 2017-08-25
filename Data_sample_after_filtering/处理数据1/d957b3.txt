@@ -1,0 +1,14 @@
+device_id	application_name
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	AWARE
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	省电管理
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	启动器
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	Android 系统
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	双卡设置
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	KingRoot
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	最美锁屏
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	浏览器
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	系统用户界面
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	QQ
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	设置
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	KeyguardTestActivity
+d957b3bf-f7fa-4c67-b139-1a85bd7ecad5	ES文件管理器

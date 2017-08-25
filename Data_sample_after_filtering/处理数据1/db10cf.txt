@@ -1,0 +1,14 @@
+device_id	application_name
+db10cfad-0011-4ce7-b79d-735d086f9842	AWARE
+db10cfad-0011-4ce7-b79d-735d086f9842	系统用户界面
+db10cfad-0011-4ce7-b79d-735d086f9842	桌面
+db10cfad-0011-4ce7-b79d-735d086f9842	QQ
+db10cfad-0011-4ce7-b79d-735d086f9842	微信
+db10cfad-0011-4ce7-b79d-735d086f9842	锁屏
+db10cfad-0011-4ce7-b79d-735d086f9842	卷皮折扣
+db10cfad-0011-4ce7-b79d-735d086f9842	相册
+db10cfad-0011-4ce7-b79d-735d086f9842	
+db10cfad-0011-4ce7-b79d-735d086f9842	安全中心
+db10cfad-0011-4ce7-b79d-735d086f9842	垃圾清理
+db10cfad-0011-4ce7-b79d-735d086f9842	通话
+db10cfad-0011-4ce7-b79d-735d086f9842	设置
